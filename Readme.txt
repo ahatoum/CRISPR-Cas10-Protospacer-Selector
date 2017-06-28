@@ -1,6 +1,6 @@
 Instructions to Run the Code:
 
-Download and place the two files (MainScript.py, GNfunctions.py) in the same directory. Edit the MainScript.py with your tag and genome sequence (variable gene). When the code runs, it creates a “Results.txt” file in the same directory that presents the tabulated results. Columns are as follows: Protospacer Coordinate (beginning in 5’ direction), Protospacer, Antitag, Spacer.
+Download and place the two files (MainScript.py, GNfunctions.py) in the same directory. Edit the MainScript.py with your tag and genome sequence (both in  5’-3’ direction). When the code runs, it creates a “Results.txt” file in the same directory that presents the tabulated results. Columns are as follows: Protospacer Coordinate (beginning in 5’ direction), Protospacer Sequence, Antitag Sequence, Spacer Sequence.
 
 
 Code Description:
